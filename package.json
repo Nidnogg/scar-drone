@@ -1,5 +1,5 @@
 {
-  "name": "sky-drone",
+  "name": "scar-drone",
   "version": "1.0.0",
   "description": "",
   "private": "true",
@@ -7,13 +7,13 @@
   "scripts": {
     "clean": "rm dist/bundle.js",
     "dev": "parcel serve public/index.html --port 3000",
-    "build": "parcel build public/index.html --public-url /sky-drone",
+    "build": "parcel build public/index.html --public-url /scar-drone",
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nidnogg/sky-drone.git"
+    "url": "git+https://github.com/Nidnogg/scar-drone.git"
   },
   "keywords": [
     "su",
@@ -22,9 +22,9 @@
   "author": "nidnogg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nidnogg/sky-drone/issues"
+    "url": "https://github.com/Nidnogg/scar-drone/issues"
   },
-  "homepage": "https://github.com/Nidnogg/sky-drone",
+  "homepage": "https://github.com/Nidnogg/scar-drone",
   "dependencies": {
     "@svgr/parcel-plugin-svgr": "^4.3.3",
     "css": "^2.2.4",

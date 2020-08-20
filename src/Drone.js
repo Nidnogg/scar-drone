@@ -93,7 +93,7 @@ const Drone = props => {
         />
       </g>
       <g
-        data-name="SKY DRONE"
+        data-name="SCAR DRONE"
         opacity={0.9}
         style={{
           isolation: "isolate"
@@ -108,7 +108,7 @@ const Drone = props => {
             isolation: "isolate"
           }}
         >
-          {"SKY"}
+          {"SCAR"}
         </text>
         <text
           transform="translate(280.29 499.05)"

@@ -70,11 +70,14 @@ const App = () => {
         
         <div ref={menuContentDiv} className="main-menu-content">
           <p>
-            Hi I'm <a href="https://imgur.com/a/A8BUEB1">the Sky Drone </a>, the drone of <a href="https://en.wikipedia.org/wiki/Rog%C3%A9rio_Skylab">Rogerio Skylab.</a> <br />
-            If you don't know who I am, you're missing out. I'm <a href="https://nidnogg.github.io/mood-drone/">cu's</a> dad and I rock and I roll.
-            And today is cu day. Awesome! I am a <a href="https://www.youtube.com/watch?v=vb2jP9yb0GQ">creative cu.</a> <br />
-            Cheers from the cyber <a href="https://the-cyber-artnet.vercel.app/">fartweb.</a>  <br />
-            Songs are from nidnogg's <a href="https://soundcloud.com/nidnogg">soundcu</a> and the <a href="https://www.youtube.com/watch?v=T6ilsDwLLYQ">cu frontier.</a>
+            Hi I'm <a href="https://imgur.com/a/A8BUEB1">the Scar Drone </a>, the drone of <a href="https://en.wikipedia.org/wiki/Scarface_(1983_film)">the Scarface film.</a> <br />
+            Don't f*** with me. I'm <a href="https://nidnogg.github.io/mood-drone/">nidnogg's</a> drone and I rock and I roll really hard. <br />
+            You better watch your ass or I'll <a href="https://www.instagram.com/p/CDSjDvglbAj/">paintball</a> you down.
+            Cheers from the cyber <a href="https://the-cyber-artnet.vercel.app/">artweb.</a>  <br />
+            Songs are from nidnogg's <a href="https://soundcloud.com/nidnogg">soundcloud</a> and the <a href="https://www.youtube.com/watch?v=ome7LuTW_Tg">YouTube frontier.</a> <br />
+            Disclaimer: I do not own the music from YouTube, it is kindly provided as is. <br />
+            Thanks remixers and uploaders, <a href="https://www.youtube.com/watch?v=grABi_3KW5E">from the bottom of my heart!</a> <br />
+            Inspired by Docubyte's phenomenal <a href="https://www.docubyte.com/works/guide-to-computing/">Guide to Computing</a>
           </p>
         </div>
       </section>

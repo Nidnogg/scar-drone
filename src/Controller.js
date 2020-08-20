@@ -7,8 +7,8 @@ const AudioContext = window.AudioContext || window.webkitAudioContext;
 var audioContext;
 let currentTrack = 0;
 const audioUrls = [
-                   "https://firebasestorage.googleapis.com/v0/b/cloudtop-8de79.appspot.com/o/Rogerio%20Skylab%20-%20Cancer%20no%20Cu.mp3?alt=media&token=992206f7-772e-4fb5-8d29-0dc75738830a",
-                   "https://firebasestorage.googleapis.com/v0/b/cloudtop-8de79.appspot.com/o/Nathaniel%20Best%20-%20Thank%20You%20Father.mp3?alt=media&token=c720c7c7-ec34-4a55-a82b-0e37a4358663",
+                   "https://firebasestorage.googleapis.com/v0/b/cloudtop-8de79.appspot.com/o/Push%20it%20to%20the%20limit%20-%20Scarface%20(remix).mp3?alt=media&token=8b52801f-39b3-45d7-aebf-51460e0ba71a",
+                   "https://firebasestorage.googleapis.com/v0/b/cloudtop-8de79.appspot.com/o/Push%20It%20To%20The%20Limit%20(scarface).mp3?alt=media&token=0c36bcef-65b6-4013-840e-788dfd009aba",
                    "https://firebasestorage.googleapis.com/v0/b/cloudtop-8de79.appspot.com/o/pulsewaves.mp3?alt=media&token=8c300cfc-8d24-4895-8586-3159830a4232"
                   ];
 
