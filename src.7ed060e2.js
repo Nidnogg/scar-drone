@@ -35929,19 +35929,23 @@ var App = function App() {
   }, _react.default.createElement("span", {
     ref: menuHeader,
     className: "menu-header"
-  }, "sky drone"), " ", _react.default.createElement("span", {
+  }, "scar drone"), " ", _react.default.createElement("span", {
     className: "ver-num",
     ref: verNum
   }, "v1.0")), _react.default.createElement("div", {
     ref: menuContentDiv,
     className: "main-menu-content"
   }, _react.default.createElement("p", null, "Hi I'm ", _react.default.createElement("a", {
-    href: "https://imgur.com/a/A8BUEB1"
+    href: "https://imgur.com/a/rezWYZY"
   }, "the Scar Drone "), ", the drone of ", _react.default.createElement("a", {
     href: "https://en.wikipedia.org/wiki/Scarface_(1983_film)"
-  }, "the Scarface film."), " ", _react.default.createElement("br", null), "Don't f*** with me. I'm ", _react.default.createElement("a", {
+  }, "the Scarface film."), " ", _react.default.createElement("br", null), "If you like this, feel free to help me out with some ", _react.default.createElement("a", {
+    href: "https://ko-fi.com/nidnogg"
+  }, "ko-fi"), " or be my ", _react.default.createElement("a", {
+    href: "https://www.patreon.com/nidnogg"
+  }, "patreon."), " ", _react.default.createElement("br", null), "Don't f*** with me. I'm ", _react.default.createElement("a", {
     href: "https://nidnogg.github.io/mood-drone/"
-  }, "nidnogg's"), " drone and I rock and I roll really hard. ", _react.default.createElement("br", null), "You better watch your ass or I'll ", _react.default.createElement("a", {
+  }, "nidnogg's"), " drone and he works hard for this. He wants you to know that. ", _react.default.createElement("br", null), "You better watch your ass or I'll ", _react.default.createElement("a", {
     href: "https://www.instagram.com/p/CDSjDvglbAj/"
   }, "paintball"), " you down. Cheers from the cyber ", _react.default.createElement("a", {
     href: "https://the-cyber-artnet.vercel.app/"
@@ -36021,7 +36025,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "61507" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62126" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
