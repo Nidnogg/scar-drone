@@ -70,8 +70,9 @@ const App = () => {
         
         <div ref={menuContentDiv} className="main-menu-content">
           <p>
-            Hi I'm <a href="https://imgur.com/a/A8BUEB1">the Scar Drone </a>, the drone of <a href="https://en.wikipedia.org/wiki/Scarface_(1983_film)">the Scarface film.</a> <br />
-            Don't f*** with me. I'm <a href="https://nidnogg.github.io/mood-drone/">nidnogg's</a> drone and I rock and I roll really hard. <br />
+            Hi I'm <a href="https://imgur.com/a/rezWYZY">the Scar Drone </a>, the drone of <a href="https://en.wikipedia.org/wiki/Scarface_(1983_film)">the Scarface film.</a> <br />
+            If you like this, feel free to help me out with some <a href="https://ko-fi.com/nidnogg">ko-fi</a> or be my <a href="https://www.patreon.com/nidnogg">patreon</a>
+            Don't f*** with me. I'm <a href="https://nidnogg.github.io/mood-drone/">nidnogg's</a> drone and he works hard for this. He wants you to know that. <br />
             You better watch your ass or I'll <a href="https://www.instagram.com/p/CDSjDvglbAj/">paintball</a> you down.
             Cheers from the cyber <a href="https://the-cyber-artnet.vercel.app/">artweb.</a>  <br />
             Songs are from nidnogg's <a href="https://soundcloud.com/nidnogg">soundcloud</a> and the <a href="https://www.youtube.com/watch?v=ome7LuTW_Tg">YouTube frontier.</a> <br />
